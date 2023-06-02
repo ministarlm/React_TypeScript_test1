@@ -1,10 +1,11 @@
-@import "../styles/colors.scss";
+@import "styles/colors.scss";
 
 .header {
   color: $color-white;
   background-color: $color-primary;
   display: flex;
-  height: 120px;
+  height: 90px;
   justify-content: center;
   align-items: center;
+  margin-bottom: 30px;
 }
